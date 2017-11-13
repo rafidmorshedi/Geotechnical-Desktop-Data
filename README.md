@@ -18,6 +18,9 @@ Pull requests welcome.
 * [Seamless Geology](https://www.resourcesandenergy.nsw.gov.au/miners-and-explorers/geoscience-information/projects/nsw-seamless-geology-project) - NSW seamless geology project
 * [GDDAS](http://dwh.minerals.nsw.gov.au/CI/warehouse) - This provides access to spatial and non-spatial geoscientific relational data for NSW, held by Mineral Resources.
 * [NSW Geoscience data packages](https://www.resourcesandenergy.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geoscience-data-resources/geoscience-data-packages) - Geoscience NSW data packages
+* [Councils](https://www.planningportal.nsw.gov.au/lodge-track-applications/track-your-application) - many NSW councils release DA documentation for review which often includes a geotechnical report. This can be a great source of data
+* [NSW Dept of Planning](https://www.planningportal.nsw.gov.au/planning-tools/open-data) - planning related spatial data sets
+* [Office of Enviro and Heritage Data](http://data.environment.nsw.gov.au/dataset) - various environmental datasets
 
 ### Western Australia
 * [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/) - ets you download state-wide spatial datasets, geology series map data, resources
