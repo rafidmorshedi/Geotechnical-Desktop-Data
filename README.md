@@ -22,6 +22,11 @@ Pull requests welcome.
 * [NSW Dept of Planning](https://www.planningportal.nsw.gov.au/planning-tools/open-data) - planning related spatial data sets
 * [Office of Enviro and Heritage Data](http://data.environment.nsw.gov.au/dataset) - various environmental datasets
 
+### Queensland
+* [Queensland Detailed Surface Geology]
+(https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/maps-data) - Can access a variety of geological, geochemical and mining data.
+To specifically access the latest detailed surface geology follow the following steps: click "QSpatial search page" hyperlink beneath the Spatial data heading -> search "detailed surface geology - Queensland" -> download the "detailed surface geology - Queensland" polygon data set. This is usually the second search result.
+
 ### Western Australia
 * [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/) - ets you download state-wide spatial datasets, geology series map data, resources
 
