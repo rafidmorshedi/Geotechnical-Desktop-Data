@@ -1,3 +1,4 @@
+
 # Geotechnical-Desktop-Data
 A collection of places to find data for geotechnical desktop studies. It currenly has an Australian focus, but am happy to add other areas.
 
@@ -33,6 +34,7 @@ Pull requests welcome.
 * [National Map](https://nationalmap.gov.au/) - a whole bunch of spatial datasets gathered from a wide range of sources
 * [GA WMS](http://services.ga.gov.au/) - a catalogue of Geoscience Australia web mapping services
 * [Geoscience Australia Data and Publications](https://ecat.ga.gov.au/geonetwork/srv/eng/search#fast=index&from=1&to=10&hitsperpage=10) - Geoscience Australia data and publications search
+* [Acid Sulfat Soil Map](http://www.asris.csiro.au/themes/AcidSulfateSoils.html) - combined ASS data sets to view and download.
 
 ### Other Parts of the world
 * [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - simply awesome
