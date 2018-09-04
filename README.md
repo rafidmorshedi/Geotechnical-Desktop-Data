@@ -24,6 +24,7 @@ Pull requests welcome.
 
 ### Queensland
 * [Queensland Detailed Surface Geology](https://www.business.qld.gov.au/industries/mining-energy-water/resources/geoscience-information/maps-datasets/maps-data) - Can access a variety of geological, geochemical and mining data. To specifically access the latest detailed surface geology follow these steps: click "QSpatial search page" hyperlink beneath the Spatial data heading -> search "detailed surface geology - Queensland" -> download the "detailed surface geology - Queensland" polygon data set. This is usually the second search result.
+* [Queensland Spatial Catalogue - QSpatial](http://qldspatial.information.qld.gov.au/catalogue/custom/index.page) - lots of QLD spatial data includeing boreholes
 
 ### Western Australia
 * [DMIRS Data and Software Centre](https://dasc.dmp.wa.gov.au/dasc/) - ets you download state-wide spatial datasets, geology series map data, resources
