@@ -10,7 +10,7 @@ Pull requests welcome.
 * [SARIG](https://map.sarig.sa.gov.au/) - South Australian Resources Information Gateway. Contains all sorts of geology/geophysics data
 
 ### New South Wales
-* [Geoscience NSW](http://www.resourcesandenergy.nsw.gov.au/miners-and-explorers/geoscience-information) - a list of the various services available to miners/fossickers in NSW. Includes maps, reports, drill cores, etc. Services include DIGS, MinView, GADDS and more
+* [Geoscience NSW](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information) - a list of the various services available to miners/fossickers in NSW. Includes maps, reports, drill cores, etc. Services include DIGS, MinView, GADDS and more
 * [AUSGIN](http://www.geoscience.gov.au/) - the Australian Geoscience information network. Geophysics, geology, boreholes etc
 * [Burea of Meterology](http://www.bom.gov.au/climate/data/) - climate data from BOM
 * [DIGS](https://search.geoscience.nsw.gov.au/) - a way to search for various reports, logs etc from the geological survey
