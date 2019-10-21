@@ -15,9 +15,10 @@ Pull requests welcome.
 * [Burea of Meterology](http://www.bom.gov.au/climate/data/) - climate data from BOM
 * [DIGS](https://search.geoscience.nsw.gov.au/) - a way to search for various reports, logs etc from the geological survey
 * [MinView](https://minview.geoscience.nsw.gov.au/#/) - map of various pieces of geotechnical/geological data
-* [Seamless Geology](https://www.resourcesandenergy.nsw.gov.au/miners-and-explorers/geoscience-information/projects/nsw-seamless-geology-project) - NSW seamless geology project
+* [Seamless Geology](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/projects/nsw-seamless-geology-project#_datasets-available-for-viewing-and-download) - NSW seamless geology project
 * [GDDAS](http://dwh.minerals.nsw.gov.au/CI/warehouse) - This provides access to spatial and non-spatial geoscientific relational data for NSW, held by Mineral Resources.
-* [NSW Geoscience data packages](https://www.resourcesandenergy.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/geoscience-data-resources/geoscience-data-packages) - Geoscience NSW data packages
+* [NSW Geological map data](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data/maps/geological-maps) - Geological map data in raster and vector formats at various scales.
+* [NSW Geoscience data packages](https://www.resourcesandgeoscience.nsw.gov.au/miners-and-explorers/geoscience-information/products-and-data) - Geoscience NSW data packages
 * [Councils](https://www.planningportal.nsw.gov.au/lodge-track-applications/track-your-application) - many NSW councils release DA documentation for review which often includes a geotechnical report. This can be a great source of data
 * [NSW Dept of Planning](https://www.planningportal.nsw.gov.au/planning-tools/open-data) - planning related spatial data sets
 * [Office of Enviro and Heritage Data](http://data.environment.nsw.gov.au/dataset) - various environmental datasets
